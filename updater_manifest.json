@@ -1,6 +1,6 @@
 {
     "info": {
-        "version": 1
+        "version": 1,
         "compat_version": 1
     },
     "default_branch": "stable",
