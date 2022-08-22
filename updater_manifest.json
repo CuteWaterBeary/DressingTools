@@ -1,0 +1,16 @@
+{
+    "info": {
+        "version": 1
+        "compat_version": 1
+    },
+    "default_branch": "stable",
+    "branches": [
+        {
+            "name": "stable",
+            "version": "1.1.0-stable",
+            "updated_at": "2022-08-22T04:51:42.515Z",
+            "github_url": "https://github.com/poi-vrc/DressingTools/releases/tag/1.1.0-stable",
+            "booth_url": "https://chocopoi.booth.pm/items/3639300"
+        }
+    ]
+}
