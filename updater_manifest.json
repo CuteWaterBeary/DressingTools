@@ -14,9 +14,9 @@
         },
         {
             "name": "nightly",
-            "version": "1.2.0-nightly",
-            "updated_at": "2022-10-10T09:51:08.528Z",
-            "github_url": "https://github.com/poi-vrc/DressingTools/releases/tag/1.2.0-nightly",
+            "version": "1.2.0.1-nightly",
+            "updated_at": "2022-10-30T19:52:13.384Z",
+            "github_url": "https://github.com/poi-vrc/DressingTools/releases/tag/1.2.0.1-nightly",
             "booth_url": "https://chocopoi.booth.pm/items/3639300"
         }
     ]
