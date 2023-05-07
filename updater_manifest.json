@@ -7,9 +7,9 @@
     "branches": [
         {
             "name": "stable",
-            "version": "1.2.0-stable",
-            "updated_at": "2022-10-31T18:34:24.743Z",
-            "github_url": "https://github.com/poi-vrc/DressingTools/releases/tag/1.2.0-stable",
+            "version": "1.2.1-stable",
+            "updated_at": "2023-05-07T00:14:09.423Z",
+            "github_url": "https://github.com/poi-vrc/DressingTools/releases/tag/1.2.1-stable",
             "booth_url": "https://chocopoi.booth.pm/items/3639300"
         },
         {
